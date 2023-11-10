@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @GomeZko (Alexandr)
+- 👋 Hi, I’m @GomeZko (Aleksandr)
 - 👀 I’m interested in game developing, programming
-- 🌱 I’m currently learning Python, C#, Modeling
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-Inst: https://www.instagram.com/_.agluckan._/
+- 🌱 I’m currently learning Python, C#, Java
+- 💞️ I’m looking to collaborate on Microsoft, Helmes, Codeborn, Google :)
+
 
 
 <!---
